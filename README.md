@@ -36,10 +36,10 @@ This repo tracks my progress through **notes, practice projects, and reflections
 
 ---
 
-### 🌱 Quote of the Day  
-<!--START_QUOTE-->
-_"This will be replaced by a daily quote"_
-<!--END_QUOTE-->
+<div align="center">
+### 🌱 Quote of the Day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
 
