@@ -36,13 +36,6 @@ This repo tracks my progress through **notes, practice projects, and reflections
 
 ---
 
-<div align="center">
-### 🌱 Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</div>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=footer"/>
 </p>
