@@ -36,6 +36,13 @@ This repo tracks my progress through **notes, practice projects, and reflections
 
 ---
 
+### 🌱 Quote of the Day  
+<!--START_QUOTE-->
+_"This will be replaced by a daily quote"_
+<!--END_QUOTE-->
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=footer"/>
 </p>
