@@ -31,7 +31,7 @@ This repo tracks my progress through **notes, practice projects, and reflections
 
 ## 🎉 Fun & Interactive Touch
 - 🎯 **Goal of the Month:** Build my first mini ETL pipeline.  
-- 🔔 **Streak Counter (self-check):** `Day 1 ✅ | Day 2 ✅ | Day 3 🔜`  
+- 🔔 **Streak Counter (self-check):** `Day 1 ✅ | Day 2 ✅ | Day 3 ✅ | Day 4 🔜`  
 - 🏆 **Motivation Quote:** *"Data is the new oil, but only if it’s refined."* but I still want to be an AI xD  
 
 ---
